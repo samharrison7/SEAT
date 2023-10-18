@@ -1,5 +1,7 @@
 # SEAT - Simple environmental Exposure Assessment Tool
 
+[![DOI](https://zenodo.org/badge/706710214.svg)](https://zenodo.org/doi/10.5281/zenodo.10018509)
+
 SEAT is a simple environmental exposure assessment tool. It is meant for use in screening-level, conservative environmental exposure assessments, as a slightly more consistent approach than back-of-the-envelope calculations. It:
 * calculates Predicted Environmental Concentrations (PECs) in surface waters, sediments and soils (but not the atmosphere or groundwater);
 * is conservative, rather than realistic;
