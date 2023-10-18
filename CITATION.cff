@@ -3,6 +3,8 @@
 
 cff-version: 1.2.0
 title: SEAT
+version: 0.2
+doi: 10.5281/zenodo.10018510
 message: SEAT is a Simple environmental Exposure Assessment Tool
 type: software
 authors:
