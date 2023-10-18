@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SEAT
+message: SEAT is a Simple environmental Exposure Assessment Tool
+type: software
+authors:
+  - given-names: Sam
+    family-names: Harrison
+    email: sharrison@ceh.ac.uk
+    affiliation: UK Centre for Ecology & Hydrology
+    orcid: 'https://orcid.org/0000-0001-8491-4720'
+  - given-names: Stephen
+    family-names: Lofts
+    email: stlo@ceh.ac.uk
+    affiliation: UK Centre for Ecology & Hydrology
+    orcid: 'https://orcid.org/0000-0002-3627-851X'
+repository-code: 'https://github.com/NERC-CEH/SEAT'
+abstract: >-
+  SEAT is a simple environmental exposure assessment tool.
+  It is meant for use in screening-level, conservative
+  environmental exposure assessments, as a slightly more
+  consistent approach than back-of-the-envelope
+  calculations.
+keywords:
+  - environmental exposure
+  - environmental chemistry
+  - REACH
+license: BSD-3-Clause
